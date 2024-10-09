@@ -1,0 +1,17 @@
+{
+  "name": "package",
+  "version": "1.0.1",
+  "description": "This is about the package.json file how to create via the npm init command",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test "
+  },
+  "keywords": [
+    "PW",
+    "Skils",
+    "Nodejs",
+    "React"
+  ],
+  "author": "Taosif_Ahmed",
+  "license": "ISC"
+}
